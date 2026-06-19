@@ -1,6 +1,6 @@
 # Alex Hormozi
 
-##Video
+## Video
 
 Title: How to Build a Personal Brand in 2026 (In Spite of AI)
 
