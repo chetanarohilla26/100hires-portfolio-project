@@ -2,7 +2,7 @@
 
 ## Video
 
-Title: How to Build a Personal Brand in 2026 (In Spite of AI)
+Title: The New way of making content in the Age of AI
 
 URL: https://youtu.be/XsWSvz-aewA?si=rYudTxamw0_n4nx0
 
