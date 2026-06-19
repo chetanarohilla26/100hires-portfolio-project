@@ -6,10 +6,10 @@ Analyze how leading B2B SaaS creators use YouTube content to build authority, ed
 
 ## Experts Analyzed
 
-1. Justin Welsh
-2. Dave Gerhardt
-3. Alex Hormozi
-4. Chris Walker
+1. Alex Hormozi
+2. Daniel Murray
+3. Dave Gerhardt
+4. Lara Acosta
 5. Ross Simmonds
 
 ---
