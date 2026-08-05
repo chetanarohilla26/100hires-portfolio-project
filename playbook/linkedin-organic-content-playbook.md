@@ -32,7 +32,7 @@ This produces a practical content system:
 
 The playbook deliberately does **not** treat any expert's framework as universally correct. The recommendations below are adaptations for an early-stage B2B SaaS team, not claims that one creator's system works for every business.
 
-### How Recommendations Are Sourced
+## 2. How Recommendations Are Sourced
 
 Each recommendation in this playbook is classified into one of three categories:
 
@@ -46,7 +46,7 @@ This distinction is intentional. The goal is not to make expert opinions appear 
 
 ---
 
-## 2. Who This Playbook Is For
+## 3. Who This Playbook Is For
 
 This SOP is designed for:
 
@@ -72,9 +72,9 @@ If none of these exist, the proof component of the strategy becomes much weaker.
 
 ---
 
-# 3. The Core Strategy
+## 4. The Core Strategy
 
-## 3.1 The operating principle
+### 4.1 The operating principle
 
 **Do not start with "What should we post?"**
 
@@ -107,9 +107,9 @@ The research supports this direction from several angles:
 
 ---
 
-# 4. The Content Creation SOP
+## 5. The Content Creation SOP
 
-### Step 1 — Define the audience
+### 5.1 — Define the audience
 
 Start with a specific audience hypothesis rather than trying to define the perfect audience before publishing.
 
@@ -118,7 +118,7 @@ Katelyn Bourgoin recommends starting with a hypothesis, creating content, and us
 Source: Katelyn Bourgoin, "I've built an audience of over 265,000 people...", LinkedIn, 11.04.2024:
 https://www.linkedin.com/posts/katebour_ive-built-an-audience-of-over-265000-people-activity-7184193526056833024-na9j
 
-### Chetana's adaptation
+#### Chetana's adaptation
 
 For an early-stage B2B SaaS team, I would operationalize this as:
 
@@ -142,7 +142,7 @@ Source: Chetana Rohilla — original operating adaptation based on the Stage 1 r
 
 ---
 
-## Step 2 — Build a problem bank
+### 5.2 — Build a problem bank
 
 Collect problems from:
 
@@ -168,7 +168,7 @@ The purpose is to prevent generic topic selection.
 
 ---
 
-## Step 3 — Select the content thesis
+### 5.3 — Select the content thesis
 
 For each post, write one sentence:
 
@@ -184,7 +184,7 @@ If the thesis cannot be written in one sentence, the post is probably trying to 
 
 ---
 
-## Step 4 — Choose the evidence
+### 5.4 — Choose the evidence
 
 Prioritize evidence in this order:
 
@@ -213,11 +213,11 @@ This distinction improves source skepticism.
 
 ---
 
-# 5. The Post Structure
+## 6. The Post Structure
 
 ## The recommended structure
 
-### 1. Attention
+### 6.1. Attention
 
 Open with:
 
@@ -231,7 +231,7 @@ Justin Welsh explicitly recommends a specific sub-niche, a scroll-stopping first
 
 **Source:** Justin Welsh, *How to write viral posts on LinkedIn*, LinkedIn, 30.06.2021: https://www.linkedin.com/posts/justinwelsh_how-to-write-viral-posts-on-linkedin-1-activity-6815975446891503616-8L8I
 
-### 2. Proof
+### 6.2. Proof
 
 Immediately establish why the reader should listen.
 
@@ -245,7 +245,7 @@ Possible proof:
 - specific experience
 - original analysis
 
-### 3. Teaching
+### 6.3. Teaching
 
 Give the reader something they can apply.
 
@@ -259,11 +259,11 @@ Possible formats:
 - teardown
 - decision tree
 
-### 4. Application
+### 6.4. Application
 
 Tell the reader how to use the idea.
 
-### 5. Conversation
+### 6.5. Conversation
 
 End with a question only when there is a genuine reason to discuss the issue.
 
@@ -271,7 +271,7 @@ Do not add a fake question solely to increase comments.
 
 ---
 
-# 6. Hook SOP
+## 7. Hook SOP
 
 Justin Welsh recommends beginning with a specific sub-niche, a scroll-stopping first line, and a curiosity-driven hook before quickly teaching the reader something useful.
 
@@ -296,7 +296,7 @@ Source: Chetana Rohilla — original operating adaptation based primarily on Jus
 
 ---
 
-# 7. Storytelling SOP
+## 8. Storytelling SOP
 
 Storytelling should be used as a **vehicle for expertise**, not as an end in itself.
 
@@ -328,7 +328,7 @@ The story gives the reader a reason to care. The lesson gives the story business
 
 ---
 
-# 8. Educational Content SOP
+## 9. Educational Content SOP
 
 Use educational posts for:
 
@@ -358,7 +358,7 @@ Instead, create five posts.
 
 ---
 
-# 9. Proof-Driven Content
+## 10. Proof-Driven Content
 
 This is one of the strongest conclusions from the Stage 1 research.
 
@@ -394,7 +394,7 @@ Hormozi's supplied YouTube research specifically emphasizes documenting actual w
 
 ---
 
-# 10. Zero-Click Value
+## 11. Zero-Click Value
 
 Do not make every LinkedIn post a teaser.
 
@@ -424,7 +424,7 @@ The post remains useful even if the reader never comments or clicks.
 
 ---
 
-# 11. Distribution SOP
+## 12. Distribution SOP
 
 Creating the post is only half the system.
 
@@ -454,41 +454,33 @@ Change the format and framing for the platform.
 
 ---
 
-# 12. AI SOP
+## 13. AI SOP
 
-AI should be used as a **production assistant**, not the source of expertise.
+The Stage 1 research produced a useful tension.
 
-Dave Gerhardt's research stresses the importance of human, authentic, experience-driven content in an AI-heavy environment. Justin Welsh's research shows a more permissive use of AI for brainstorming hooks, organizing thoughts, and preparing emails.
+Justin Welsh demonstrates practical uses of ChatGPT for brainstorming hooks, organizing thoughts, and preparing emails.
 
-**Source:** Dave Gerhardt, *What content stands out in a sea of AI?*, LinkedIn, 23.06.2025: https://www.linkedin.com/posts/davegerhardt_what-content-stands-out-in-a-sea-of-ai-activity-7342936493310550016-jxtH  
+Source: Justin Welsh, "ChatGPT will not miraculously grow your audience or business," LinkedIn, 20.01.2023:
+https://www.linkedin.com/posts/justinwelsh_chatgpt-will-not-miraculously-grow-your-audience-activity-7022189688861937664-KVzT
 
-**Source:** Justin Welsh, *ChatGPT will not miraculously grow your audience or business*, LinkedIn, 20.01.2023: https://www.linkedin.com/posts/justinwelsh_chatgpt-will-not-miraculously-grow-your-audience-activity-7022189688861937664-KVzT
+Dave Gerhardt argues that content that feels authentic, real, and human stands out in an environment increasingly filled with AI-generated material.
 
-### Good AI use
+Source: Dave Gerhardt, "What content stands out in a sea of AI?", LinkedIn:
+https://www.linkedin.com/posts/davegerhardt_what-content-stands-out-in-a-sea-of-ai-activity-7342936493310550016-jxtH
 
-- brainstorm hooks
-- organize interview notes
-- cluster customer problems
-- turn a transcript into draft ideas
-- identify repeated themes
-- generate alternative headlines
-- repurpose an existing insight
+### Chetana's decision
 
-### Poor AI use
+I would therefore use AI heavily for workflow acceleration but keep humans responsible for the underlying claim, evidence, and final voice.
 
-- inventing customer stories
-- inventing data
-- generating opinions without evidence
-- publishing generic AI-written posts unchanged
-- replacing subject-matter expertise
+Source: Chetana Rohilla — synthesis of the two approaches above.
 
-### Human-in-the-loop rule
+Recommended workflow:
 
-**AI can accelerate the workflow. The human must own the claim.**
+Human experience → AI organization → Human judgment → Human edit → Publish
 
 ---
 
-# 13. Measurement Framework
+## 14. Measurement Framework
 
 The Stage 1 research suggests that engagement alone is insufficient for evaluating B2B content. Chris Walker provides the clearest example: he argues that some posts that perform poorly on likes and views can generate more revenue because they introduce new thinking rather than reinforce existing beliefs.
 
@@ -536,23 +528,23 @@ Ask:
 
 ---
 
-# 14. Where Experts Disagree
+## 15. Where Experts Disagree
 
-## Disagreement 1 — Optimize for engagement vs optimize for commercial signal
+### 15.1. Engagement vs optimize for commercial signal
 
-### Author A: Justin Welsh
+#### Author A: Justin Welsh
 
 Justin recommends a structure built around attention: a specific sub-niche, strong hook, curiosity, fast teaching, a recap, and active engagement with comments.
 
 **Source:** Justin Welsh, *How to write viral posts on LinkedIn*, 30.06.2021: https://www.linkedin.com/posts/justinwelsh_how-to-write-viral-posts-on-linkedin-1-activity-6815975446891503616-8L8I
 
-### Author B: Chris Walker
+#### Author B: Chris Walker
 
 Chris argues that some of his lowest-performing posts by likes/views generated the most revenue because they introduced new ideas that challenged established thinking. He contrasts these with high-engagement posts that mostly reinforce beliefs people already hold.
 
 **Source:** Chris Walker, *Fun fact: My worst performing LinkedIn posts drive the most revenue*, 06.01.2023: https://www.linkedin.com/posts/chriswalker171_b2b-marketing-content-activity-7017125539991740416-X69p
 
-### My decision
+#### My decision
 
 **Optimize for relevance and commercial signal first; use engagement as a diagnostic, not the final objective.**
 
@@ -568,9 +560,9 @@ Therefore:
 
 ---
 
-## Disagreement 2 — What should carry the post: story or information?
+### 15.2. Story vs Standalone Value
 
-### Author A: Lara Acosta
+#### Author A: Lara Acosta
 
 Lara Acosta places storytelling at the front of the post. Her Educational Storyteller framework uses a personal story to create relatability and a lesson to retain educational value. Her later SLAY framework similarly positions the story as the hook and the lesson/actionable advice as the reason the reader stays.
 
@@ -582,14 +574,14 @@ https://www.linkedin.com/posts/laraacostar_everyone-on-linkedin-should-be-tellin
 Lara Acosta, "My 4-step storytelling framework is unbeatable," LinkedIn:
 https://www.linkedin.com/posts/laraacostar_my-4-step-storytelling-framework-is-unbeatable-activity-7287446692763742208-aC5s
 
-### Author B: Amanda Natividad
+#### Author B: Amanda Natividad
 
 Amanda Natividad's zero-click approach places the emphasis on giving the audience standalone value directly on the platform rather than making the social post primarily a vehicle for driving clicks elsewhere.
 
 Source: Amanda Natividad, "In a nutshell, here are the huge problems we're dealing with in marketing today," LinkedIn, 17.05.2024:
 https://www.linkedin.com/posts/amandanat_in-a-nutshell-here-are-the-huge-problems-activity-7197278523311415296-Bjb-
 
-### My decision
+#### My decision
 
 I side with Amanda on the minimum requirement and with Lara on the optional delivery mechanism.
 
@@ -608,21 +600,21 @@ Source: Chetana Rohilla — original synthesis based on the two approaches above
 
 ---
 
-## Disagreement 3 — AI as a content accelerator vs AI as a threat to differentiation
+### 15.3. AI Acceleration vs Human Differentiation
 
-### Author A: Justin Welsh
+#### Author A: Justin Welsh
 
 Justin describes practical uses for ChatGPT including brainstorming hooks, organizing thoughts/writing, and preparing emails.
 
 **Source:** Justin Welsh, *ChatGPT will not miraculously grow your audience or business*, 20.01.2023: https://www.linkedin.com/posts/justinwelsh_chatgpt-will-not-miraculously-grow-your-audience-activity-7022189688861937664-KVzT
 
-### Author B: Dave Gerhardt
+#### Author B: Dave Gerhardt
 
 Dave argues that content that feels authentic, real, and human stands out in a feed increasingly filled with AI-generated material. He emphasizes human experience and authenticity as differentiation.
 
 **Source:** Dave Gerhardt, *What content stands out in a sea of AI?*, 23.06.2025: https://www.linkedin.com/posts/davegerhardt_what-content-stands-out-in-a-sea-of-ai-activity-7342936493310550016-jxtH
 
-### My decision
+#### My decision
 
 **Use AI aggressively behind the scenes, but conservatively in the final voice.**
 
@@ -638,15 +630,15 @@ This gets the efficiency benefit without turning the feed into interchangeable A
 
 ---
 
-# 15. What I Rejected and Why
+## 16. What I Rejected and Why
 
-## Rejected idea 1 — Optimize for virality as the primary goal
+### 16.1. Virality as Primary Goal
 
 Some of the researched frameworks are explicitly framed around writing viral posts.
 
 I rejected virality as the primary KPI for B2B SaaS.
 
-### Why
+#### Why
 
 Viral reach can be useful, but it can also attract people outside the ideal customer profile.
 
@@ -654,23 +646,23 @@ Chris Walker's research provides a strong counterpoint: some posts with lower en
 
 **Source:** Chris Walker, 06.01.2023: https://www.linkedin.com/posts/chriswalker171_b2b-marketing-content-activity-7017125539991740416-X69p
 
-### What I kept
+#### What I kept
 
 Hooks and attention optimization.
 
-### What I rejected
+#### What I rejected
 
 The assumption that maximum engagement automatically means maximum business value.
 
 ---
 
-## Rejected idea 2 — Put a CTA on every post
+### 16.2. CTA on Every Post
 
 The Stage 1 research identified lead magnets, newsletters, and promotional mechanisms as common ways creators monetize attention.
 
 I rejected the idea of making every post push the reader toward a conversion action.
 
-### Why
+#### Why
 
 Amanda Natividad's zero-click approach suggests that standalone value can itself build awareness, trust, and affinity.
 
@@ -680,29 +672,35 @@ Chris Walker's demand-generation example similarly describes content that educat
 
 **Source:** Chris Walker, *Lead Generation vs. Demand Generation*, LinkedIn: https://www.linkedin.com/posts/chriswalker171_marketing-b2b-demandgeneration-activity-6717782990421807104-z94Q
 
-### What I kept
+#### What I kept
 
 Use CTAs when there is a legitimate next step.
 
-### What I rejected
+#### What I rejected
 
 The assumption that every valuable post needs to extract a click, comment, or lead.
 
 ---
 
-# 16. My Original Ideas
+## 17. My Original Ideas
 
-## 16.1 The Expertise → Evidence → Application Framework
+The following frameworks are not presented as frameworks created by any of the ten experts.
 
-This framework is my synthesis/original operating model based on the research.
+They are my own operating models synthesized from recurring patterns in the research. The underlying components are source-informed; the frameworks themselves are my proposed way of operationalizing those findings for B2B SaaS.
+
+Source: Chetana Rohilla — original synthesis of Stage 1 research.
+
+### 17.1.  Expertise → Evidence → Application Framework
+
+This is my original operating model. It is informed by recurring themes in the research around proof, expertise, customer evidence, and actionable education, but the three-part framework itself was not found as a framework in the sources reviewed.
 
 Every B2B SaaS post should contain three layers:
 
-### 1. Expertise
+#### 1. Expertise
 
 What do you believe?
 
-### 2. Evidence
+#### 2. Evidence
 
 Why should the reader believe you?
 
@@ -715,11 +713,11 @@ Examples:
 - failure
 - implementation experience
 
-### 3. Application
+#### 3. Application
 
 What should the reader do differently?
 
-### Example
+#### Example
 
 **Weak:**
 
@@ -741,7 +739,7 @@ This is particularly useful for B2B SaaS because it makes expertise visible inst
 
 ---
 
-## 16.2 The Proof-to-Content Loop
+### 17.2. The Proof-to-Content Loop
 
 This is a second original operating idea.
 
@@ -765,9 +763,9 @@ The idea is inspired by the Stage 1 research on proof-based content, audience fe
 
 ---
 
-# 17. Weaknesses of This Playbook
+## 18. Weaknesses of This Playbook
 
-## 17.1 Engagement is not causation
+### 18.1. Engagement is not causation
 
 High-performing posts may correlate with audience growth without causing it.
 
@@ -775,7 +773,7 @@ The research cannot prove that a specific hook, story structure, or posting patt
 
 ---
 
-## 17.2 Survivorship bias
+### 18.2. Survivorship bias
 
 The ten experts were selected because they are visible and successful.
 
@@ -790,7 +788,7 @@ Therefore, the research is biased toward observable winners.
 
 ---
 
-## 17.3 Audience mismatch
+### 18.3. Audience mismatch
 
 A strategy used by a creator with hundreds of thousands of followers may behave differently for a SaaS founder with 2,000 followers.
 
@@ -804,7 +802,7 @@ Follower scale changes:
 
 ---
 
-## 17.4 Business-model differences
+### 18.4. Business-model differences
 
 Some experts monetize:
 
@@ -820,7 +818,7 @@ Therefore, a creator's lead-generation framework cannot automatically be copied 
 
 ---
 
-## 17.5 Attribution is incomplete
+### 18.5. Attribution is incomplete
 
 A LinkedIn post may influence a buyer without receiving last-click credit.
 
@@ -837,7 +835,7 @@ The final conversion may not be attributable to the original post.
 
 ---
 
-## 17.6 AI is changing the environment
+### 18.6. AI is changing the environment
 
 Some recommendations in this playbook are based on content behavior that can change as LinkedIn algorithms, AI search, and audience behavior evolve.
 
@@ -845,9 +843,9 @@ The playbook should therefore be treated as an experimentation system, not perma
 
 ---
 
-# 18. Who I Would NOT Recommend Following — and Why
+## 19. Who I Would NOT Recommend Following
 
-## Alex Hormozi — as a complete operating model
+### Alex Hormozi — as a complete operating model
 
 I would **not recommend that a B2B SaaS marketer copy Alex Hormozi's content system wholesale.**
 
@@ -868,33 +866,43 @@ Those principles are useful.
 
 But copying the entire style can create three problems for B2B SaaS:
 
-### 1. Context mismatch
+#### 1. Context mismatch
 
 A founder selling a complex B2B product to multiple stakeholders may need more nuance than a highly compressed, high-energy business lesson.
 
-### 2. Audience mismatch
+#### 2. Audience mismatch
 
 A content style optimized for broad entrepreneurial attention is not automatically optimized for a narrow ICP such as CFOs, RevOps leaders, CTOs, or enterprise buyers.
 
-### 3. Brand risk
+#### 3. Brand risk
 
 Aggressive certainty and highly simplified claims can produce attention but may reduce credibility when the buying decision requires nuance and evidence.
 
-### What I would borrow
+This is my judgment rather than a claim that Hormozi's approach has been shown to reduce credibility.
 
-**Proof → simplicity → frameworks → demonstration**
+The reason I would not copy the style wholesale is transferability: the Stage 1 research concerns a creator whose content is built around broad business education and entrepreneurial audiences, while the target use case here is narrow B2B SaaS communication involving specific ICPs and potentially complex buying decisions.
 
-### What I would not copy
+My recommendation is therefore:
 
-**Tone → volume → certainty → broad-audience positioning**
+Borrow the underlying mechanism, not the surface style.
 
-The principle is:
+What I would borrow:
+- proof
+- simplicity
+- frameworks
+- demonstration
 
-> **Borrow the underlying mechanism, not the surface style.**
+What I would not automatically copy:
+- tone
+- volume
+- certainty
+- broad-audience positioning
+
+Source: Chetana Rohilla — judgment based on transferability analysis of the Stage 1 research.
 
 ---
 
-# 19. Weekly Content Operating System
+## 20. Weekly Content Operating System
 
 The following five-day structure is not presented as a frequency proven by the research. It is my proposed operating cadence for testing the major content types identified across the Stage 1 research.
 
@@ -943,7 +951,7 @@ This is a testing cadence, not a universal recommendation. Performance should de
 
 ---
 
-# 20. 30-Day Experiment Plan
+## 21. 30-Day Experiment Plan
 
 ### Important distinction
 
@@ -953,7 +961,7 @@ It is my proposed experimental design for translating the Stage 1 findings into 
 
 Source: Chetana Rohilla — original operating recommendation.
 
-## Week 1 — Establish baseline
+### Week 1 — Establish baseline
 
 Publish a small, consistent sample across different formats; for this experiment, I would test 3–5 posts per week.
 
@@ -966,7 +974,7 @@ Measure:
 - target-account engagement
 - inbound conversations
 
-## Week 2 — Identify signals
+### Week 2 — Identify signals
 
 Compare:
 
@@ -977,7 +985,7 @@ Compare:
 
 Do not judge only on likes.
 
-## Week 3 — Double down
+### Week 3 — Double down
 
 Select the two strongest combinations based on:
 
@@ -985,7 +993,7 @@ Select the two strongest combinations based on:
 
 Create more variations.
 
-## Week 4 — Repurpose
+### Week 4 — Repurpose
 
 Take the strongest idea and convert it into:
 
@@ -999,7 +1007,7 @@ Then document what happened.
 
 ---
 
-# 21. Post Quality Checklist
+## 22. Post Quality Checklist
 
 Before publishing, ask:
 
@@ -1036,7 +1044,7 @@ Before publishing, ask:
 
 ---
 
-# 22. Final Operating Principle
+## 23. Final Operating Principle
 
 The research began with a question:
 
@@ -1060,7 +1068,7 @@ That is the core operating loop this playbook recommends.
 
 ---
 
-## Source Note
+## 24. Source Note
 
 This playbook uses source material from the Stage 1 research repository and additional source-level verification of publicly available LinkedIn posts.
 
