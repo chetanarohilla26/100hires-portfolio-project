@@ -490,9 +490,14 @@ Dave Gerhardt's research stresses the importance of human, authentic, experience
 
 # 13. Measurement Framework
 
-Do not optimize only for likes.
+The Stage 1 research suggests that engagement alone is insufficient for evaluating B2B content. Chris Walker provides the clearest example: he argues that some posts that perform poorly on likes and views can generate more revenue because they introduce new thinking rather than reinforce existing beliefs.
 
-Track three layers.
+Source: Chris Walker, "Fun fact: My worst performing LinkedIn posts drive the most revenue," LinkedIn, 06.01.2023:
+https://www.linkedin.com/posts/chriswalker171_b2b-marketing-content-activity-7017125539991740416-X69p
+
+### Chetana's measurement model
+
+Based on that insight, I propose measuring content across three layers:
 
 ## Layer 1 — Attention
 
@@ -891,59 +896,66 @@ The principle is:
 
 # 19. Weekly Content Operating System
 
-## Monday — Customer insight
+The following five-day structure is not presented as a frequency proven by the research. It is my proposed operating cadence for testing the major content types identified across the Stage 1 research.
+
+Source: Chetana Rohilla — original operating recommendation based on recurring themes from Justin Welsh, Lara Acosta, Amanda Natividad, Chris Walker, Alex Hormozi, Dave Gerhardt, and Ross Simmonds.
+
+### Monday — Customer insight
 
 Publish:
-
 - customer problem
 - misconception
 - observation
 - lesson
 
-## Tuesday — Education
+### Tuesday — Education
 
 Publish:
-
 - framework
 - checklist
 - teardown
 - how-to
 
-## Wednesday — Point of view
+### Wednesday — Point of view
 
 Publish:
-
 - strong opinion
 - contrarian observation
 - industry change
 
-## Thursday — Proof
+### Thursday — Proof
 
 Publish:
-
 - experiment
 - case study
 - behind-the-scenes
 - data
 
-## Friday — Story
+### Friday — Story
 
 Publish:
-
 - failure
 - lesson
 - transformation
 - personal experience
 
-This is a starting hypothesis, not a universal frequency requirement.
+This is a testing cadence, not a universal recommendation. Performance should determine whether the cadence should be maintained, reduced, or changed.
 
 ---
 
 # 20. 30-Day Experiment Plan
 
+### Important distinction
+
+The 30-day experiment below is not presented as a framework prescribed by any one of the ten experts.
+
+It is my proposed experimental design for translating the Stage 1 findings into measurable tests.
+
+Source: Chetana Rohilla — original operating recommendation.
+
 ## Week 1 — Establish baseline
 
-Publish 3–5 posts across different formats.
+Publish a small, consistent sample across different formats; for this experiment, I would test 3–5 posts per week.
 
 Measure:
 
