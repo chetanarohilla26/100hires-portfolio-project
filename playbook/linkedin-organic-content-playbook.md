@@ -32,6 +32,18 @@ This produces a practical content system:
 
 The playbook deliberately does **not** treat any expert's framework as universally correct. The recommendations below are adaptations for an early-stage B2B SaaS team, not claims that one creator's system works for every business.
 
+### How Recommendations Are Sourced
+
+Each recommendation in this playbook is classified into one of three categories:
+
+**Source-derived recommendation** — directly adapted from a specific practitioner's documented advice. The original source is cited immediately after the recommendation.
+
+**Research synthesis** — a conclusion that emerged from recurring patterns across multiple Stage 1 sources. The relevant sources are cited together.
+
+**Original operating recommendation** — my own proposed adaptation for an early-stage B2B SaaS team. These are explicitly labeled as original rather than attributed to an expert.
+
+This distinction is intentional. The goal is not to make expert opinions appear to be empirical facts, but to separate observed evidence, practitioner advice, and my own judgment.
+
 ---
 
 ## 2. Who This Playbook Is For
