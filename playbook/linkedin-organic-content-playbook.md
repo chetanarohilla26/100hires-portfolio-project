@@ -109,9 +109,23 @@ The research supports this direction from several angles:
 
 # 4. The Content Creation SOP
 
-## Step 1 — Define the audience
+### Step 1 — Define the audience
 
-Choose one narrow audience before choosing the topic.
+Start with a specific audience hypothesis rather than trying to define the perfect audience before publishing.
+
+Katelyn Bourgoin recommends starting with a hypothesis, creating content, and using audience feedback to refine both the audience and topic rather than waiting for complete clarity upfront.
+
+Source: Katelyn Bourgoin, "I've built an audience of over 265,000 people...", LinkedIn, 11.04.2024:
+https://www.linkedin.com/posts/katebour_ive-built-an-audience-of-over-265000-people-activity-7184193526056833024-na9j
+
+### Chetana's adaptation
+
+For an early-stage B2B SaaS team, I would operationalize this as:
+
+1. Start with one narrow audience hypothesis.
+2. Publish against that hypothesis.
+3. Monitor the quality of audience response.
+4. Refine the audience definition based on evidence.
 
 Examples:
 
@@ -120,23 +134,11 @@ Examples:
 - Product marketers launching new SaaS products
 - Founders trying to improve activation
 
-Avoid:
+Avoid starting with an audience as broad as "B2B marketers."
 
-> "B2B marketers"
+The narrower hypothesis makes it easier to identify a specific problem and develop a defensible point of view.
 
-That is too broad to create a sharp point of view.
-
-### Audience hypothesis
-
-Write:
-
-> "I believe [audience] struggles with [problem] because [reason]."
-
-Then publish and listen.
-
-This is supported by Katelyn Bourgoin's advice to start with a hypothesis, create content, and use audience feedback to refine the audience and topic rather than waiting for perfect clarity before publishing.
-
-**Source:** Katelyn Bourgoin, *I've built an audience of over 265,000 people...*, LinkedIn, 11.04.2024: https://www.linkedin.com/posts/katebour_ive-built-an-audience-of-over-265000-people-activity-7184193526056833024-na9j
+Source: Chetana Rohilla — original operating adaptation based on the Stage 1 research.
 
 ---
 
@@ -271,40 +273,26 @@ Do not add a fake question solely to increase comments.
 
 # 6. Hook SOP
 
-## What to do
+Justin Welsh recommends beginning with a specific sub-niche, a scroll-stopping first line, and a curiosity-driven hook before quickly teaching the reader something useful.
 
-Write 10 possible first lines before choosing one.
+Source: Justin Welsh, "How to write viral posts on LinkedIn," LinkedIn, 30.06.2021:
+https://www.linkedin.com/posts/justinwelsh_how-to-write-viral-posts-on-linkedin-1-activity-6815975446891503616-8L8I
 
-Then score each hook:
+### Chetana's operating adaptation
 
-| Criterion | 1–5 |
-|---|---:|
-| Specific to audience | |
-| Creates curiosity | |
-| Makes a clear promise | |
-| Based on a real insight | |
-| Avoids generic jargon | |
+For this playbook, I would operationalize the hook process as follows:
 
-Choose the highest-scoring hook.
+1. Write 10 possible first lines.
+2. Score each from 1–5 on:
+   - Specificity to the audience
+   - Curiosity
+   - Clarity of promise
+   - Connection to a real insight
+   - Avoidance of generic jargon
+3. Select the strongest candidate.
+4. Before publishing, verify that the hook accurately represents the evidence contained in the post.
 
-### Hook types to test
-
-**Contrarian**
-> "Your SaaS doesn't have an onboarding problem."
-
-**Observation**
-> "We reviewed 40 onboarding sessions. The biggest friction wasn't where we expected."
-
-**Result**
-> "Removing one step changed how users reached their first value moment."
-
-**Story**
-> "I thought the customer was asking for a feature. They were actually asking for reassurance."
-
-**Question**
-> "What if your highest-intent leads are the people who never download your ebook?"
-
-Do not assume that "viral" is the same as "valuable."
+Source: Chetana Rohilla — original operating adaptation based primarily on Justin Welsh's hook framework and the Stage 1 research.
 
 ---
 
@@ -575,37 +563,43 @@ Therefore:
 
 ---
 
-## Disagreement 2 — Story-led content vs standalone native value
+## Disagreement 2 — What should carry the post: story or information?
 
 ### Author A: Lara Acosta
 
-Lara's Educational Storyteller framework starts with a personal story, uses education to deliver the lesson, and adds personality to make the content relatable.
+Lara Acosta places storytelling at the front of the post. Her Educational Storyteller framework uses a personal story to create relatability and a lesson to retain educational value. Her later SLAY framework similarly positions the story as the hook and the lesson/actionable advice as the reason the reader stays.
 
-**Source:** Lara Acosta, *Everyone on LinkedIn should be telling stories*, 24.07.2024: https://www.linkedin.com/posts/laraacostar_everyone-on-linkedin-should-be-telling-stories-activity-7221839528632758272-jVMq
+Sources:
+
+Lara Acosta, "Everyone on LinkedIn should be telling stories," LinkedIn:
+https://www.linkedin.com/posts/laraacostar_everyone-on-linkedin-should-be-telling-stories-activity-7221839528632758272-jVMq
+
+Lara Acosta, "My 4-step storytelling framework is unbeatable," LinkedIn:
+https://www.linkedin.com/posts/laraacostar_my-4-step-storytelling-framework-is-unbeatable-activity-7287446692763742208-aC5s
 
 ### Author B: Amanda Natividad
 
-Amanda's zero-click approach argues that social content should provide standalone value without requiring a click to an external destination.
+Amanda Natividad's zero-click approach places the emphasis on giving the audience standalone value directly on the platform rather than making the social post primarily a vehicle for driving clicks elsewhere.
 
-**Source:** Amanda Natividad, *In a nutshell, here are the huge problems we're dealing with in marketing today*, 17.05.2024: https://www.linkedin.com/posts/amandanat_in-a-nutshell-here-are-the-huge-problems-activity-7197278523311415296-Bjb-
+Source: Amanda Natividad, "In a nutshell, here are the huge problems we're dealing with in marketing today," LinkedIn, 17.05.2024:
+https://www.linkedin.com/posts/amandanat_in-a-nutshell-here-are-the-huge-problems-activity-7197278523311415296-Bjb-
 
 ### My decision
 
-**Combine them, but change the hierarchy: value is mandatory; storytelling is optional but powerful.**
+I side with Amanda on the minimum requirement and with Lara on the optional delivery mechanism.
 
-The story should not be the product.
-
-The lesson should be.
+The post must provide standalone value. Storytelling should be used when it makes that value more memorable, credible, or emotionally relevant.
 
 Therefore:
 
-**Story → Insight → Action**
+**Value is mandatory. Storytelling is conditional.**
 
-rather than:
+For a B2B SaaS team, I would use:
 
-**Story → Story → Story → CTA**
+- Story-led posts when the experience itself provides evidence or context.
+- Direct educational posts when the subject is better explained through a framework, checklist, teardown, or analysis.
 
-For B2B SaaS, I would use story-led posts when the story provides evidence or emotional context that makes the lesson stronger. For tactical posts, I would skip the story and deliver the framework directly.
+Source: Chetana Rohilla — original synthesis based on the two approaches above.
 
 ---
 
