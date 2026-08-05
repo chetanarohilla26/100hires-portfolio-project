@@ -1044,7 +1044,24 @@ Before publishing, ask:
 
 ---
 
-## 23. Final Operating Principle
+## 23. Decision Log
+
+| Research finding | Expert/source | My interpretation | Decision |
+|---|---|---|---|
+| Strong hooks improve attention | Justin Welsh | Attention is necessary but not sufficient | Use hooks, but do not optimize for engagement alone |
+| Some low-engagement posts can drive revenue | Chris Walker | Engagement is an imperfect proxy for commercial value | Track business signals separately |
+| Stories create relatability and context | Lara Acosta | Stories are useful when they strengthen the lesson | Use storytelling selectively |
+| Native content can provide standalone value | Amanda Natividad | LinkedIn posts should not depend on clicks | Make standalone value the minimum standard |
+| Distribution increases the value of existing content | Ross Simmonds | Strong ideas should be reused rather than discarded | Build a repurposing workflow |
+| AI can assist content workflows | Justin Welsh | AI is useful for production efficiency | Use AI behind the scenes |
+| Human experience differentiates content | Dave Gerhardt | AI should not replace original experience | Keep human judgment over claims and voice |
+| Proof makes expertise more credible | Alex Hormozi | Demonstrated expertise is more defensible than generic advice | Prioritize evidence-driven content |
+
+This table is my synthesis of the Stage 1 research rather than a claim that every expert would endorse every conclusion.
+
+---
+
+## 24. Final Operating Principle
 
 The research began with a question:
 
@@ -1068,7 +1085,7 @@ That is the core operating loop this playbook recommends.
 
 ---
 
-## 24. Source Note
+## 25. Source Note
 
 This playbook uses source material from the Stage 1 research repository and additional source-level verification of publicly available LinkedIn posts.
 
